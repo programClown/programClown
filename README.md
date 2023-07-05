@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=programClown&show_icons=true">
+
 <!--
 **programClown/programClown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
